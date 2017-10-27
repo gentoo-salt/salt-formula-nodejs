@@ -1,18 +1,14 @@
-web-browser
+nodejs
 ======================
 
-Install/update web browsers (chrome, firefox, opera, vivaldi)
+Install/update nodejs and dependencies
 
 Available states
 ================
 
-``web-browser.init``
+``nodejs.init``
 --------------------
-Install/configure web browsers
-
-``web-browser.deps``
---------------------
-Configure the dependencies for web browsers
+Install/configure nodejs and dependencies
 
 Documentation
 ======================
